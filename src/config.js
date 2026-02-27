@@ -1,11 +1,11 @@
 export const KNOWLEDGE_DOMAIN = {
   overview: {
-    name: "ABC Engineering College",
-    location: "Chennai, Tamil Nadu",
+    name: "Achariya college of  Engineering Technology",
+    location: "Puducherry,India ",
     vision: "To create industry-ready professionals",
     mission: "Quality education with innovation",
     accreditation: "NAAC A+",
-    affiliation: "Anna University"
+    affiliation: "Pondichery  University"
   },
 
   courses: {
