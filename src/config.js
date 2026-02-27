@@ -5,7 +5,7 @@ export const KNOWLEDGE_DOMAIN = {
     vision: "To create industry-ready professionals",
     mission: "Quality education with innovation",
     accreditation: "NAAC A+",
-    affiliation: "Pondichery  University"
+    affiliation: "Pondicherry  University"
   },
 
   courses: {
@@ -53,7 +53,7 @@ export const KNOWLEDGE_DOMAIN = {
     phone: "+91 98765 43210",
     email: "info@abccollege.edu",
     website: "www.abccollege.edu",
-    address: "Chennai, Tamil Nadu"
+    address: "Puducherry,India"
   }
 };
 
